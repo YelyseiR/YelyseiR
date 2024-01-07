@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi 👋, I'm Yelysei.  Welcome to my repo. Feel free to contact me via LinkedIn🤝
+Hi 👋, I'm Yelysei and welcome to my Github.
+Feel free to contact me via LinkedIn🤝
 
 
 ## 🌐 Socials:
